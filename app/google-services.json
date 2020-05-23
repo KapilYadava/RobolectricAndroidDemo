@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44673788838",
+    "firebase_url": "https://instrumentationtestdemo.firebaseio.com",
+    "project_id": "instrumentationtestdemo",
+    "storage_bucket": "instrumentationtestdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44673788838:android:e2e4291e66bd6a9e2e7d67",
+        "android_client_info": {
+          "package_name": "com.example.instrumentationtestdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44673788838-j8gdnupehv12gvqvmkhlon82onntfm27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWrTEPO5nT2ngmrcu6Q94VeBy6Hg-2M48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44673788838-j8gdnupehv12gvqvmkhlon82onntfm27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
